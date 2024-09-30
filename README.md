@@ -27,10 +27,5 @@ en upload je het met
 ```
 git push -u origin main
 ```
-#### Nu ben je klaar met je git commands (btw het programma "Virtual Studio Code Comunity Edition" doet dit voor je in een GUI(Graphical User Interface))
-Hier onder de naam:
-```
-Virtual Studio Code Comunity Edition
-```
-# Wat ik vaker ga gebruiken van Markdown:
-Niks
+### Wat ik vaker ga gebruiken van Markdown:
+Notes Maken 
