@@ -22,7 +22,7 @@ git add FILENAME.FILE_EXTENTION
 hierna kan je de uitvoeren commit met:
 ```
 git commit -m "MESSAGE"
-
+```
 en upload je het met 
 ```
 git push -u origin main
