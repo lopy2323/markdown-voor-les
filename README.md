@@ -10,6 +10,8 @@ dan link je die repo met:
 ```
 git remote add origin https://github.com/USERNAME/REPO_NAME.git
 ```
+nu moet je een branch aanmaken:
+```
 git branch -M main
 ```
 ### Hier na kunnen we files uploaden door middel van CMD
