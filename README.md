@@ -2,7 +2,7 @@
 
 - Bereidings tijd: **30 min**
 - Recept voor: *2 personen*
-![alt](https://www.lekkerensimpel.com/wp-content/uploads/2024/06/588A4575.jpg.webp)
+![alt](https://www.bhg.com/thmb/eQgTJ-Bl7DUSNIVQvfntHP3ZVOM=/2000x0/filters:no_upscale():strip_icc()/bhg-pork-and-shitake-steamed-dumplings-FmOg5-5J4gv94CccQYTVph-0ef0a4a8987244759154f9e5e1b1819e.jpgs)
 
 ## Benodigheden
 
